@@ -1,0 +1,8 @@
+{
+  "name": "KPCH Band - ระบบรับสมัครและจัดการชุมนุมดนตรีสากล โรงเรียนกาญจนาภิเษกวิทยาลัย ชัยภูมิ",
+  "description": "ระบบรับสมัครสมาชิกชุมนุมดนตรีสากลและวงโยธวาทิต เช็คชื่อนักเรียน ระบบขอลา-ขอลาออก พิมพ์รายชื่อ PDF สำหรับครูและแอดมิน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
